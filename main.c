@@ -9,4 +9,8 @@ void main()
 feature1
 }
 
+{
+//code by dev2
+feature2
+}
 
